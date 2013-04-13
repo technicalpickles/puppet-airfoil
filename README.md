@@ -1,14 +1,16 @@
 # Airfoil Puppet Module for Boxen
 
-Requires the following boxen modules:
-
-* [boxen](https://github.com/boxen/puppet-boxen)
+[![Build Status](https://travis-ci.org/boxen/puppet-airfoil.png)](https://travis-ci.org/boxen/puppet-airfoil)
 
 ## Usage
 
 ```puppet
 include airfoil
 ```
+
+## Required Puppet Modules
+
+* [boxen](https://github.com/boxen/puppet-boxen)
 
 ## Developing
 
